@@ -19,5 +19,5 @@ You can access the Weather App by following this link : [Weather View](https://v
 ## Search Weather:
 On the home page, you'll find a search bar. Enter the name of the city for which you want to check the weather and press the "Search" button.
 
-##Weather Details:
+## Weather Details:
 After searching, the app will display the current temperature, humidity, and wind speed for the selected city. Additionally, an appropriate weather image will be shown to visually represent the weather conditions.
