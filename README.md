@@ -5,10 +5,11 @@ The Weather App is a simple web application that allows users to check the weath
 You can access the Weather App by following this link : [Weather View](https://view-weatherr.netlify.app/)
 
 # ScreenShot
-![1](https://github.com/AnkitJha13/Weather-App/assets/116744896/1eb2ffa9-6840-4216-a248-4a18705966bc)   ![3](https://github.com/AnkitJha13/Weather-App/assets/116744896/19621203-a91d-4808-93e8-e5c79dfe700f)
+ 
+![3](https://github.com/AnkitJha13/Weather-App/assets/116744896/2db57b1b-f5bb-4a1d-866e-165e35fbd459)
 
 
-![2](https://github.com/AnkitJha13/Weather-App/assets/116744896/573c51bd-cdab-41aa-8ee1-86184263948f)
+
 
 
 ## Features
