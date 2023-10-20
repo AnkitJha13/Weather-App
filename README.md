@@ -8,7 +8,11 @@ You can access the Weather App by following this link : [Weather View](https://v
 
 ![1](https://github.com/AnkitJha13/Weather-App/assets/116744896/a7ebf84f-df3d-4dd6-9dbe-6a287e08c861)
 
+![2](https://github.com/AnkitJha13/Weather-App/assets/116744896/6af4e619-4af7-4491-b050-b6b50aed41c3)
+
 ![3](https://github.com/AnkitJha13/Weather-App/assets/116744896/5d0067f3-0a88-4339-8e6e-a04ef6513899)
+
+
 
 
 
