@@ -6,7 +6,8 @@ You can access the Weather App by following this link : [Weather View](https://v
 
 # ScreenShot
  
-![3](https://github.com/AnkitJha13/Weather-App/assets/116744896/2db57b1b-f5bb-4a1d-866e-165e35fbd459)
+![3](https://github.com/AnkitJha13/Weather-App/assets/116744896/5d0067f3-0a88-4339-8e6e-a04ef6513899)
+
 
 
 
