@@ -106,7 +106,7 @@ body {
 }
 
 .weather{
-    display: none;
+    display: none;  /* to keep weather display hidden initially */
 }
 
 .error{
